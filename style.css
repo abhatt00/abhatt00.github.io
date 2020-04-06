@@ -1,6 +1,13 @@
 body { 
 	padding-top: 65px;
 	margin: 10px;
+	background-image: url('https://wallpapercave.com/wp/rFud6gx.jpg');
+		opacity: 1.75;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+	background-size: 100% 100%;
+	text-decoration-color: whitesmoke;
+	text-emphasis-color: white;
 }
 
 
