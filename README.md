@@ -31,10 +31,10 @@ Utilizing the "cities.csv" file provided, first the data is converted into a Dat
 
 #### Visualization pages:
 
-![visualize page large screen](WebVizualizations/Temperature_Lat_pg.png =250x250)
-![visualize page large screen](WebVizualizations/Humidity_Lat_pg.png =250x250)
-![visualize page large screen](WebVizualizations/Cloudiness_Lat_pg.png =250x250)
-![visualize page large screen](WebVizualizations/Windspeed_Lat_pg.png =250x250)
+![visualize page large screen](WebVizualizations/Temperature_Lat_pg.png | width=100)
+![visualize page large screen](WebVizualizations/Humidity_Lat_pg.png | width=100)
+![visualize page large screen](WebVizualizations/Cloudiness_Lat_pg.png | width=100)
+![visualize page large screen](WebVizualizations/Windspeed_Lat_pg.png | width=100)
 
 
 #### Navigation menu:
